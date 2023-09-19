@@ -1,0 +1,2 @@
+What is Doctype Declaration?
+The 'Doctype' declaration in HTML is a special tag that specifies the version of HTML used in a web document. It stands for 'Document Type Declaration'. Its primary purpose is to inform web browsers about the type and version of HTML being used in the document so that they can render the content correctly.
